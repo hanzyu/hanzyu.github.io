@@ -1,5 +1,5 @@
 # Site settings
-title: Rocester Life
+title: Rochester Life
 SEOTitle: 罗村生活 | Rochester Life
 header-img: img/home_bg.jpg
 # email: huxpro@gmail.com
@@ -79,13 +79,13 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Welcome to Rochester, MN<br>在这里走过的都是风景"
-# sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/rst_downtown.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 0              # A tag will be featured if the size of it is more than this condition value
 
 
 
